@@ -1,36 +1,36 @@
-✈️ Flight Booking & Travel Analytics Dashboard
+# Flight Booking & Travel Analytics Dashboard
 
-This project is an interactive Power BI Dashboard built using flight booking and travel data to analyze passenger trends, ticket pricing, travel classes, airline performance, and payment behavior.
+## Project Overview
 
-Live Dashboard: https://bit.ly/powerbi-insight
+This project is an interactive **Flight Booking & Travel Analytics Dashboard** developed using Microsoft Power BI to analyze flight bookings, passenger travel patterns, revenue trends, and airline performance through dynamic and interactive visualizations.
 
-📊 Dashboard Highlights
-Total Bookings Analysis
-Revenue & Ticket Price Insights
-Airline-wise Ticket Price Comparison
-Departure City Analysis
-Passenger Age Group Analysis
-Travel Class Distribution
-Payment Method Analytics
-KPI Cards & Interactive Filters
+## Features
 
-🛠 Tools & Technologies Used
-Power BI
-Data Visualization
-DAX Measures
-Data Cleaning
-Interactive Dashboard Design
+* Flight Booking Analysis
+* Revenue & Ticket Sales Tracking
+* Passenger Travel Insights
+* Airline Performance Analysis
+* Destination Trend Analysis
+* KPI Monitoring Dashboard
+* Interactive Filters & Visualizations
 
-📈 Key Insights
-Identified highest revenue-generating airlines
-Compared booking trends across travel classes
-Analyzed customer payment preferences
-Visualized ticket price distribution by passenger age
+## Tools Used
 
-📂 Dataset
+* Microsoft Power BI
+* SQL
+* Excel
+* Power Query
+* DAX
 
-Sample flight booking dataset used for educational and analytical purposes.
+## Business Insights
 
-🚀 Project Outcome
+* Identified peak travel periods and booking trends
+* Analyzed passenger booking behavior and preferences
+* Tracked revenue performance and ticket sales growth
+* Compared airline and destination performance metrics
+* Generated actionable business insights using data visualization
 
-Built a professional business intelligence dashboard to improve analytical thinking, visualization skills, and KPI reporting using Power BI.
+## Live Dashboard
+
+🔗https://bit.ly/powerbi-insight
+
