@@ -2,7 +2,7 @@
 
 This project is an interactive Power BI Dashboard built using flight booking and travel data to analyze passenger trends, ticket pricing, travel classes, airline performance, and payment behavior.
 
-Live Dashboard: https://lnkd.in/gWi7y9jJ
+Live Dashboard: https://bit.ly/powerbi-insight
 
 📊 Dashboard Highlights
 Total Bookings Analysis
